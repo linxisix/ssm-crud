@@ -13,6 +13,8 @@ public class gitTest {
         System.out.println("master");
 
 
+        System.out.println();
+        System.out.println("hot-fix");
 
         System.out.println("sdsafd");
     }
